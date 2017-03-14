@@ -73,5 +73,7 @@ int main()
         printf("%d", rotateBin[i]);
         if(j%8==0 && j != 32) printf(" "); 
     }
+ 
+    printf("\n");   
     return 0;
 }
